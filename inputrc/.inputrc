@@ -1,0 +1,4 @@
+set completion-ignore-case on
+
+"\t": menu-complete
+"\e[Z": menu-complete-backward
